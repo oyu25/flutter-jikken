@@ -1,0 +1,102 @@
+[
+  {
+    "text": "「やっこい」は、「とても痩せている人」という意味である。",
+    "answer": false,
+    "explanation": "「柔らかい」という意味である。"
+  },
+  {
+    "text": "「やせはったぎ」は、「とても痩せている人」という意味である。",
+    "answer":true,
+    "explanation": "「とても痩せている人」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer": false,
+    "explanation": "「」という意味である。"
+  },
+  {
+    "text": "「」は、「」という意味である。",
+    "answer":true,
+    "explanation": "「」という意味である。"
+  }
+]
